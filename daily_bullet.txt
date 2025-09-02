@@ -1,0 +1,4 @@
+September 1:
+Done: installed QuNetSim and NetSquid packages, run the teleportation example provided by NetSquid, Identified the duplex-coding mechanism.
+Doing: reading JSAC’23 Full-Duplex article, identifying core resources.
+Blockers: None.

@@ -1,0 +1,5 @@
+
+Identify the duplex-coding mechanism:
+
+The duplex-coding mechanism is used for full-duplex communication without transfering any physical particles. Each party encodes 1 bit by applying Pauli operators on the Bell pair. This creates 4 possible Bell states.
+They perform D-CNOT in a counterfactual (without transfering physical particle) way using modified quantum Zeno (MQZ) gates. After applying D-CNOT, both parties can measure their qubits to recover each others bits. If at any point a photon actually goes through the channel, the protocol discards measurement as an “erasure” and the bits are considered lost.
