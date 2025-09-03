@@ -1,4 +1,10 @@
-September 1:
+September 2:
 Done: installed QuNetSim and NetSquid packages, run the teleportation example provided by NetSquid, Identified the duplex-coding mechanism.
 Doing: reading JSAC’23 Full-Duplex article, identifying core resources.
+Blockers: None.
+
+September 3:
+Done: Identified the core resources of the duplex-coding mechanism.
+	  Wrote brief description of how Pauli parameters are inferred from syndromes
+Doing: reading TCOM’24 SCAPE article. Exploring the implementation of the SCAPE protocol.
 Blockers: None.
