@@ -8,3 +8,9 @@ Done: Identified the core resources of the duplex-coding mechanism.
 	  Wrote brief description of how Pauli parameters are inferred from syndromes
 Doing: reading TCOM’24 SCAPE article. Exploring the implementation of the SCAPE protocol.
 Blockers: None.
+
+
+September 4:
+Done: clarified the way Pauli parameters are inferred from syndromes. Learned the SCAPE protocol.
+Doing: reading the article Quantum Anonymous Networking: A Quantum Leap in Privacy.
+Blockers: None.
